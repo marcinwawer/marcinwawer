@@ -31,6 +31,7 @@
 - SwiftData
 - SwiftTesting
 - XCTest
+- REST API
 - Xcode
 
 ## 📊 Stats

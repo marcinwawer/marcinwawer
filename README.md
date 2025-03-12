@@ -21,7 +21,7 @@
 
 ## 📱 iOS Tech Stack
 <!-- Mindfulness gif from https://dribbble.com/shots/2684019-Mindfulness-Crafting-your-Thoughts -->
-<img align="right" src="https://cdn.dribbble.com/userupload/21028750/file/original-50625e7040990ba2b9dba638ca207a61.gif" width="300">
+<img align="right" src="https://cdn.dribbble.com/userupload/21028750/file/original-50625e7040990ba2b9dba638ca207a61.gif" width="400">
 
 - Swift
 - SwiftUI

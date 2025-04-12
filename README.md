@@ -36,5 +36,5 @@
 
 ## 📊 Stats
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-![](https://github-readme-stats.vercel.app/api?username=marcinwawer&theme=catppuccin_mocha&include_all_commits=true&show_icons=true&hide=stars,issues&card_width=500px) <br><br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=marcinwawer&theme=material-palenight&card_width=500px)
+![](https://github-readme-stats.vercel.app/api?username=marcinwawer&theme=catppuccin_mocha&include_all_commits=true&show_icons=true&card_width=500px) <br><br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=marcinwawer&theme=material-palenight&card_width=500px&hide=scss,css,vue,html,jupyter+notebook)

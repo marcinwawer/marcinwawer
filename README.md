@@ -27,10 +27,8 @@
 - SwiftUI
 - MVVM
 - Combine
-- CoreData
-- SwiftData
-- SwiftTesting
-- XCTest
+- CoreData, SwiftData
+- SwiftTesting, XCTest
 - REST API
 - Xcode
 

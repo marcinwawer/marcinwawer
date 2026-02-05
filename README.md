@@ -1,7 +1,7 @@
 # 🧑‍💻  marcin
 
 **`mobile & cat enjoyer`**
-- iOS developer with commercial experience 🍏
+- iOS Developer with nearly 1 year of commercial experience 🍏
 - graduate in [Applied Computer Science](https://rekrutacja.pwr.edu.pl/wyszukiwarka-kierunkow-studiow/informatyka-stosowana/), Wrocław University of Science and Technology 🤓
 - focused on developing iOS apps, but in the future, I’d also love to dive into VR applications 🌐
 
